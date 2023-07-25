@@ -1,4 +1,4 @@
-# Tipos de Kernel y sus diferencias
+# Tipos de Kernel
 
 El kernel es el corazón del sistema operativo, y puede clasificarse en varios tipos dependiendo de cómo interactúa con el hardware y los procesos del sistema. Los dos tipos principales son:
 
