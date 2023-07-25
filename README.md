@@ -5,4 +5,5 @@ Sistemas Operativos 1
 Segundo semestre 2023 
 
 **Nombre**: Cristian Aramis Lopez Bautista
+
 **Carnet**: 201904042
