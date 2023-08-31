@@ -41,3 +41,11 @@ Este repositorio contiene un archivo de unidad de systemd y un script para ejecu
     sudo systemctl daemon-reload
    ```
 
+
+## Documentos de respaldo para verificar correcto funcionamiento 💻
+
+![CreacionImagen](https://github.com/CristtDev/so1_actividades_201904042/blob/main/img/ac41.png)  
+
+![CreacionImagen](https://github.com/CristtDev/so1_actividades_201904042/blob/main/img/ac42.png)  
+
+![CreacionImagen](https://github.com/CristtDev/so1_actividades_201904042/blob/main/img/ac43.png)  
