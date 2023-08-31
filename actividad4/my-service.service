@@ -1,0 +1,9 @@
+[Unit]
+Description=Script de saludo y fecha
+
+[Service]
+Type=simple
+ExecStart=/home/cristian/Documentos/SOPES/so1_actividades_201904042/actividad4/saludo-scritp.sh
+
+[Install]
+WantedBy=multi-user.target

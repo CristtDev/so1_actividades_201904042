@@ -1,0 +1,9 @@
+[Unit]
+Description=Script Hola mundo multiples veces
+
+[Service]
+Type=simple
+ExecStart=/home/cristian/Documentos/SOPES/so1_actividades_201904042/actividad4/script-dinamico.sh
+
+[Install]
+WantedBy=multi-user.target
